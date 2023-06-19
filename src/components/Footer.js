@@ -1,5 +1,5 @@
 import React from "react";
-import photo from '../icons_assets/footer_lemon.PNG';
+import photo from '../icons_assets/footer_lemon.png';
 import {Box, Heading, Link } from "@chakra-ui/react";
 import email from "../icons_assets/icons/email.png";
 import address from "../icons_assets/icons/location.png";
